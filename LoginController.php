@@ -42,3 +42,5 @@ class LoginController extends Controller
         return redirect('/');
     }
 }
+
+//ini adalah login
